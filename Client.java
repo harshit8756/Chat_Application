@@ -45,7 +45,7 @@ public class Client {
                         socket.close();
                         break;
                     }
-                    System.out.println("Client : " + message);
+                    System.out.println("Server : " + message);
 
                 }
             }

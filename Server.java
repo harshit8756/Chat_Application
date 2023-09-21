@@ -46,7 +46,7 @@ public class Server {
                         System.out.println("Client has stopped");
                         break;
                     }
-                    System.out.println("Server : " + message);
+                    System.out.println("Client : " + message);
                 }
 
             }
